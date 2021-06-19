@@ -1,11 +1,11 @@
 ---
-title: "Welcome to my blog"
+title: "A beautiful day!"
 date: 2021-06-19
 ---
 
 So, probably my next thing is to learn markdown... again.
 
-#Title 1
+# Title 1
 I think the hash mark is a heading level indicator
 
 * is a list, right?
