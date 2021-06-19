@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2021-06-19
+---
+
 So, probably my next thing is to learn markdown... again.
 
 #Title 1
